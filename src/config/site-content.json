@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "duanap",
+		"title": "duanap的小破站",
 		"description": "duanap的小破站，以技术为笔，以时光为纸，记录开发路上的坑与悟，分享可落地的经验与思考，简单记录，持续成长。",
 		"username": "duanap"
 	},
@@ -46,25 +46,32 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/duanap/duanap",
-			"label": "Github",
-			"order": 3
-		},
-		{
 			"id": "juejin",
 			"type": "qq",
 			"value": "182827046",
 			"label": "稀土掘金",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "mail@duanap",
 			"label": "",
-			"order": 1
+			"order": 2
+		},
+		{
+			"id": "button-1770386547173",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/415162533",
+			"label": "",
+			"order": 3
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/duanap/duanap",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
